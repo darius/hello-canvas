@@ -15,9 +15,9 @@ you touch it with the mouse pointer.
 
 4. Reload index.html and check that your change worked.
 
-5. Publish your changed version on a website. I like to copy to a
-'hacking' directory on my website (wry.me), but if you don't have a
-site you can upload files to, here's another way:
+5. Publish your changed version on a website. I like to use
+http://wry.me/hacking/ for myself, but if you don't have a site you
+can upload files to, here's another way:
 
   * Commit your change and push to your fork of this repo.
 
