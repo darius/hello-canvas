@@ -12,8 +12,8 @@ var circleY = height/2;
 var circleR = 20;
 
 function update() {
-    circleX += 10;
-    circleY += 5;
+    circleX += 8;
+    circleY += 3;
     circleX %= width;
     circleY %= height;
 }
