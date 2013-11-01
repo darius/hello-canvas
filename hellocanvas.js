@@ -38,7 +38,6 @@ function distanceSquared(x0, y0, x1, y1) {
 
 function fillCircle(x, y, radius) {
     ctx.beginPath();
-    ctx.moveTo(x, y);
     ctx.arc(x, y, radius, 0, 2*Math.PI);
     ctx.closePath();
     ctx.fill();
