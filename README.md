@@ -31,3 +31,10 @@ can upload files to, here's another way:
     https://raw.github.com/darius/hello-canvas/master/README.md
     Change the "raw.github" to just "rawgithub". This should give
     you a publically sharable, working copy of your changed code.
+
+## Docs and tutorials
+
+* https://developer.mozilla.org/en/docs/HTML/Canvas
+* http://billmill.org/static/canvastutorial/
+* https://www.khanacademy.org/cs/programming/drawing-basics/p/intro-to-drawing
+  (I haven't tried this one.)
